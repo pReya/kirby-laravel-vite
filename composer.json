@@ -2,6 +2,7 @@
 	"name": "lukaskleinschmidt/kirby-laravel-vite",
 	"description": "Kirby Laravel Vite",
 	"license": "MIT",
+    "homepage": "https://github.com/lukaskleinschmidt/kirby-laravel-vite#readme",
 	"type": "kirby-plugin",
 	"authors": [
 		{
